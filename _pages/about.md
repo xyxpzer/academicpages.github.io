@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="images/yuchenyan.jpg" width = "80%" />
+<img src="images/yuchenyan.JPG" width = "80%" />
 
 Biography
 ======
